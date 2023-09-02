@@ -31,7 +31,7 @@ create database csmssch
 **4. Build and run the app using maven**
 
 ```
-mvn package
+mvn clean install
 ```
 
 A new JAR file will be generated at `project/target/newbuild-0.0.1-SNAPSHOT.jar` 
